@@ -32,7 +32,7 @@ Here is a list of known sources that were removed.
 - ManhuaScan https://github.com/tachiyomiorg/tachiyomi-extensions/pull/7129
 - ManhwaHot https://github.com/tachiyomiorg/tachiyomi-extensions/pull/7129
 - Mode Scanlator https://github.com/tachiyomiorg/tachiyomi-extensions/pull/17865
-- Neox Scanlator https://github.com/tachiyomiorg/tachiyomi-extensions/pull/12695
+- Neox/Nexo Scanlator https://github.com/tachiyomiorg/tachiyomi-extensions/pull/12695
 - Reaper Scans (EN) https://github.com/tachiyomiorg/tachiyomi-extensions/pull/16819
 - SuperMangás and SuperHentais https://github.com/tachiyomiorg/tachiyomi-extensions/pull/6348
 - TopToon+/Day Comics https://github.com/tachiyomiorg/tachiyomi-extensions/pull/10851
@@ -66,3 +66,13 @@ Here is a list of known sources that were removed.
 - SetsuScans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/11040
 - ShinobiScans https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14457
 - XXX Yaoi https://github.com/tachiyomiorg/tachiyomi-extensions/issues/9535
+
+### Requested removal by copyright holders
+
+By request of [Kakao Entertainment](https://www.kakaoent.com/):
+
+- 1st Kiss-Manga
+- Bato.to
+- Mangadex
+- NewToki / ManaToki
+- S2Manga
