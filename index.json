@@ -11026,10 +11026,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -11038,7 +11038,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://demontoon.com",
+        "baseUrl": "https://demonreader.org/",
         "versionId": 1,
         "hasCloudflare": 1
       }
