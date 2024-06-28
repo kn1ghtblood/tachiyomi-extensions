@@ -11026,10 +11026,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.11.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -11038,7 +11038,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://comicdemons.com/",
+        "baseUrl": "https://mgdemon.org/",
         "versionId": 1,
         "hasCloudflare": 1
       }
