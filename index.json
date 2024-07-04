@@ -10711,10 +10711,10 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.4.15.apk",
+    "apk": "tachiyomi-en.mangabat-v1.4.10.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
