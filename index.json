@@ -2294,7 +2294,7 @@
     "code": 192,
     "version": "1.4.192",
     "nsfw": 1,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10711,10 +10711,10 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.4.10.apk",
+    "apk": "tachiyomi-en.mangabat-v1.4.15.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -11038,7 +11038,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://mgdemon.org/",
+        "baseUrl": "https://mgdemon.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28731,7 +28731,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywgbo2.com",
+        "baseUrl": "http://www.zerobywzz.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
