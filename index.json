@@ -7401,6 +7401,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Asura Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+    "apk": "tachiyomi-en.asurascans-v1.4.37.apk",
+    "lang": "en",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asura Scans",
+        "lang": "en",
+        "id": "6247824327199706550",
+        "baseUrl": "https://asuracomic.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Asura Scans.us (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascansus",
     "apk": "tachiyomi-en.asurascansus-v1.4.32.apk",
@@ -28731,7 +28752,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywzz.com",
+        "baseUrl": "http://www.zerobyw8.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
