@@ -1,0 +1,12 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+ext {
+    extName = 'Asura Scans'
+    pkgNameSuffix = 'en.asurascans'
+    extClass = '.AsuraScans'
+    extVersionCode = 37
+    isNsfw = false
+}
+
+apply from: "$rootDir/common.gradle"
