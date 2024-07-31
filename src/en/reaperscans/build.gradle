@@ -1,0 +1,11 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+ext {
+    extName = 'Reaper Scans'
+    pkgNameSuffix = 'en.reallifecomics'
+    extClass = '.ReaperScans'
+    extVersionCode = 49
+}
+
+apply from: "$rootDir/common.gradle"
