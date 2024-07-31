@@ -3,7 +3,7 @@ apply plugin: 'kotlin-android'
 
 ext {
     extName = 'Reaper Scans'
-    pkgNameSuffix = 'en.reallifecomics'
+    pkgNameSuffix = 'en.reaperscans'
     extClass = '.ReaperScans'
     extVersionCode = 49
 }
