@@ -8359,10 +8359,10 @@
   {
     "name": "Tachiyomi: EarlyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.earlymanga",
-    "apk": "tachiyomi-en.earlymanga-v1.4.21.apk",
+    "apk": "tachiyomi-en.earlymanga-v1.4.27.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8370,9 +8370,9 @@
       {
         "name": "EarlyManga",
         "lang": "en",
-        "id": "6241754258417429248",
-        "baseUrl": "https://earlycomic.com",
-        "versionId": 1,
+        "id": "7334481395354545914",
+        "baseUrl": "https://earlym.org",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
